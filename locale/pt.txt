@@ -71,16 +71,7 @@ panorama_79C90C69_6942_E0FE_41CB_F2DEBDADB019.label = 27
 panorama_79CAE838_6943_205E_41C9_4854426E359E.label = 8
 panorama_7A261751_6943_602E_41D7_6BAD10F05283.label = 7
 video_74AD93A6_6943_E072_41B3_9C77C0659703.label = loading
-video_7869E0A4_76E2_6CDB_41CE_06F35BF8F72B.label = Barra clip e overdenture (1)
-video_7A0606D8_76E2_746A_41D3_9CF2A6DC2B1A.label = Dentadura implantosuportada (protocolo)
 video_7A060F27_76E2_7426_41BD_7FD6D3936018.label = Implante dente anterior
-video_7A062C50_76E2_747B_41C5_0AFB5864091E.label = Implante dente anterior dois estágios
-video_7A0651C0_76E2_6C5A_41D1_4D72C7DBF3AE.label = Levantamento de seio
-video_7A067495_76E2_94FA_41C3_36DE1EC06537.label = Protese fixa implantosuportada
-video_7A06A756_76E2_9466_41CB_F49C72E85802.label = Reposição de molar com implante
-video_7A06AA03_76E2_9FDE_41BA_EB14AA04D653.label = Verticalização de molar para implante
-video_7A06D40F_76E2_6BE6_41B0_927E85916659.label = Barra clip e overdenture
-video_7A07B97C_76E2_7C2B_41D9_C82BDDF63710.label = Implante com ganho ósseo
 
 ## Action
 
