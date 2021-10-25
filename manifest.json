@@ -1,4 +1,9 @@
 {
+ "name": "Oral Sin Implantes - Taboão da Serra - 360°",
+ "description": "R. Santa Luzia, 619 - Vila Santa Luzia, Taboão da Serra - SP, 06754-005",
+ "display": "fullscreen",
+ "start_url": "index.htm",
+ "theme_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -36,10 +41,5 @@
    "src": "misc/icon64.png"
   }
  ],
- "name": "Oral Sin Implantes - Taboão da Serra - 360°",
- "description": "R. Santa Luzia, 619 - Vila Santa Luzia, Taboão da Serra - SP, 06754-005",
- "display": "fullscreen",
- "start_url": "index.htm",
- "theme_color": "#FFFFFF",
  "background_color": "#FFFFFF"
 }
